@@ -1,1 +1,1 @@
-### Rate Monotonic Scheduling ALgorithm
+### Rate Monotonic Scheduling Algorithm
